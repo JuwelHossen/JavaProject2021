@@ -1,0 +1,10 @@
+
+?
+java:S1659""Declare "temp" on a separate line.(¨”Íð8ÉŸèšò.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áé˜ç8‚Øìšò.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨”Íð8ÉŸèšò.
+<
+java:S1659"Declare "j" on a separate line.(¨”Íð8ÉŸèšò.
+D
+java:S1659"'Declare "index_min" on a separate line.(¨”Íð8ÉŸèšò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹8¬ð¹šò.

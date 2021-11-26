@@ -1,0 +1,14 @@
+
+V
+java:S3518";Make sure "count" can't be zero before doing this division.(éÑÓ´ýÿÿÿÿ
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(°¦Ì²
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(½˜Ðð
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(ãž¸Ï
+V	java:S125"<This block of commented-out lines of code should be removed.(¢­ÏÓÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.( É
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÑÓ´ýÿÿÿÿ

@@ -1,0 +1,25 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú‹àô8âÓ¾¯õ.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ç’¤™8ñŸÁÄõ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸œçûÿÿÿÿ8µ¨…¯õ.
+D
+java:S1481)"'Remove this unused "li" local variable.(„’Êâ8Ì¨Ô¯õ.
+L
+java:S3740"/Provide the parametrized type for this generic.(ĞÕÕ 8Ëû÷®õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8Üò€¯õ.
+S
+java:S1854)"6Remove this useless assignment to local variable "li".(„’Êâ8Ì¨Ô¯õ.
+I
+java:S1612",Replace this lambda with a method reference.(ú‹àô8âÓ¾¯õ.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(É„†ú8ïÃÅ¯õ.
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8Í¸ÍÄõ.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8ğĞÏÄõ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â£ˆ²ûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8¥ô¶¯õ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø8‡¼úÃõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Çõ„Œ8üÛ·¯õ.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø8šÈèÃõ.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Æ²ÑÃ8†ãÄÄõ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Çõ„Œ8´ğÀ¯õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ8ó¸ˆ¯õ.
